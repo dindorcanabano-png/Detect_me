@@ -1,14 +1,10 @@
 streamlit==1.32.0
-opencv-python-headless==4.9.0.80
+streamlit-webrtc==0.47.7
 ultralytics==8.0.230
-
 opencv-python-headless==4.9.0.80
-
+av==10.0.0
+tornado==6.3.3
 numpy
 pillow
 scipy
 matplotlib
-
-tornado==6.3.3
-
-
