@@ -7,12 +7,12 @@ import cv2
 
 # ---------------- UI CONFIG ----------------
 st.set_page_config(
-    page_title="Live Object Detection and Tracing",
-    page_icon="🎯",
+    page_title="Object Detection and Tracing",
+    page_icon="🎥",
     layout="wide",
 )
 
-st.title("🎯 Live AI Vision System")
+st.title("🎥 Live Object Detection & Tracing")
 st.write("YOLO + Face Detection")
 
 # ---------------- LOAD YOLO MODEL ----------------
